@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salomea</h1>
 <h3 align="center">A passionate developer from Romania.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssalomea17&label=Profile%20views&color=0e75b6&style=flat" alt="ssalomea17" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssalomea17" alt="ssalomea17" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ssalomea17" target="blank"><img src="https://img.shields.io/twitter/follow/ssalomea17?logo=twitter&style=for-the-badge" alt="ssalomea17" /></a> </p>
 
 - 🔭 I’m currently working on **developing new skills.**
 
@@ -23,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssalomea17&show_icons=true&locale=en&layout=compact" alt="ssalomea17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssalomea17&show_icons=true&locale=en" alt="ssalomea17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssalomea17&" alt="ssalomea17" /></p>
